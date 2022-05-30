@@ -30,3 +30,10 @@ Google Навыки «Основы интернет маркетинга» 2022;
 
 # Знание языков
 Русский, Английский
+
+<img width="1084" alt="image" src="https://user-images.githubusercontent.com/56445173/171002942-467c774b-b7aa-4a84-a224-129c74b65470.png">
+<img width="748" alt="image" src="https://user-images.githubusercontent.com/56445173/171003151-24f87080-f278-4ae2-9d82-e54ad1c5bf47.png">
+<img width="587" alt="image" src="https://user-images.githubusercontent.com/56445173/171003328-2594fbc7-b5a4-4421-ae55-5235b0251b18.png">
+<img width="526" alt="image" src="https://user-images.githubusercontent.com/56445173/171003404-f35ffa32-739e-4ce0-878a-138a8773171e.png">
+<img width="566" alt="image" src="https://user-images.githubusercontent.com/56445173/171003555-d56e46d7-e29c-40b4-a1a1-6252fa996df5.png">
+<img width="637" alt="image" src="https://user-images.githubusercontent.com/56445173/171003638-563e2197-adfb-4bdd-8401-42a922aa03d4.png">
