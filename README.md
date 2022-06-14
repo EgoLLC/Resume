@@ -33,6 +33,7 @@ Google Навыки «Основы интернет маркетинга» 2022;
 <br/>
 <br/>
 <img width="500" alt="" src="https://user-images.githubusercontent.com/56445173/171005479-24abdc41-8aed-4886-88a0-d59d91f2f329.png">
+<img width="641" alt="" src="https://user-images.githubusercontent.com/56445173/173616085-c3f4861c-ddb3-40a6-926e-49dfa977cd7b.png">
 <img width="500" alt="" src="https://user-images.githubusercontent.com/56445173/171005526-6246baa4-2cfd-46af-a2bb-f197ffcadb79.png">
 <img width="500" alt="" src="https://user-images.githubusercontent.com/56445173/171005567-6a4a1d8b-81be-424f-b6c4-68072877501a.png">
 <img width="500" alt="" src="https://user-images.githubusercontent.com/56445173/171005590-1c670b9e-29c4-48cb-a051-bc5bdf554c29.png">
