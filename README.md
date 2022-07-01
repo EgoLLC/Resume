@@ -9,9 +9,9 @@
 Занятость: полная<br/>
 
 ## Опыт — 3 года 6 месяцев
-Разработка android приложений для google play, [некоторые проекты](https://artapp.tk/)<br/>
+Разработка android, spring приложений, [некоторые проекты](https://artapp.tk/)<br/>
 Опыт работы в Android Studio, IntelliJ IDEA.<br/>
-Основы работы с Blender, Illustrator, Photoshop.<br/>
+Основы работы с Blender, Illustrator, Photoshop, Figma.<br/>
 
 ## Ключевые навыки
 Java, Kotlin, SQL, Android, Spring, Jetpack compose, libGDX, Классические алгоритмы и структуры данных, Базы данных, Архитектура приложения, http, Gradle, Maven, Git, Room, Retrofit, Hilt, Coil и др.
