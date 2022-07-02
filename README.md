@@ -1,7 +1,7 @@
 ## Емельянов Егор
 Муж, 09.05.1990<br/>
 Тел +7 (992) 33-68-268<br/>
-[luk9ln@gmail.com](mailto:luk9ln@gmail.com).<br/>
+[luk9ln@gmail.com](mailto:egoemy@yandex.ru).<br/>
 Проживает: Верхняя Пышма, Екатеринбург<br/>
 Гражданство: Русский<br/>
 Готов к командировкам<br/>
