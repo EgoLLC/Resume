@@ -8,7 +8,7 @@
 Разработка мобильных приложений (android), Backend-разработка, Java, Kotlin<br/>
 Занятость: полная<br/>
 
-## Опыт — 3 года 6 месяцев
+## Опыт разработки с 2018 г.
 Разработка android, spring приложений, [некоторые проекты](https://artapp.tk/)<br/>
 Опыт работы в Android Studio, IntelliJ IDEA.<br/>
 Основы работы с Blender, Illustrator, Photoshop, Figma.<br/>
